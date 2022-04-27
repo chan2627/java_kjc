@@ -27,8 +27,6 @@ public class Ex16_Test4 {
 	    else if(op == '%') {
 	    System.out.println(""+ num1 + op +num2+ " = " + (num1 + num2));}
 	    else {
-	    	System.out.println();
-	    }
-	    	
-	    }
-
+	    	System.out.println();}
+	}	    	
+}
